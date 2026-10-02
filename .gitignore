@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+
+# Data / runtime
+backend/data/
+*.db
+*.jsonl
+
+# Env
+.env
+
+# OS
+.DS_Store
